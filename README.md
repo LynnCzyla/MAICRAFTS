@@ -70,7 +70,7 @@ MAICRAFTS
 
 1. Clone the repository
 ```
-   git clone https://github.com/<your-username>/MAICRAFTS.git
+   git clone https://github.com/jerimiahbitancor/MAICRAFTS.git
 ```
 2. Install dependencies in each folder
 ```
